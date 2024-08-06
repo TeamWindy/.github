@@ -1,1 +1,1 @@
-# .github
+# WindyTeam
